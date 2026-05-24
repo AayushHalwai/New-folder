@@ -1,0 +1,37 @@
+.header{
+     background-color: #5A3E2D;
+     width: 100%;
+    
+     display: flex;
+     flex-grow: 1;
+     justify-content: center;
+     align-items: center;
+    color: #FDFBD4;
+   border-bottom-left-radius: 8px;
+   border-bottom-right-radius: 8px;
+   
+     
+}
+body{
+    background-color: #FDFBD4;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+.albums{
+    height: auto;
+    width: auto ;
+     background-color: #5A3E2D;
+   color: #FDFBD4;
+   display: flex;
+     justify-content: center;
+     align-items: center;
+    margin: 30px; 
+    border-radius: 8px;
+}
+
+#albums_collection{
+    height: 40px;
+    width: 40px;
+}
